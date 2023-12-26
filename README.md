@@ -1,0 +1,2 @@
+<h1>Desafio 01: Criando sua primeira Landing Page com HTML e CSS</h1>
+<h2>Bem vindo(a) ao meu primeiro desafio da Trilha de CSS da DIO! Nela, você vai encontrar a minha primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.</h2>
